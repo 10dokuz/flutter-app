@@ -1,0 +1,2 @@
+C:/Users/PC/Desktop/yenii/elite_quiz_app-2.3.1/android/app/.cxx/Debug/i2o4f644/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/PC/Desktop/yenii/elite_quiz_app-2.3.1/android/app/.cxx/Debug/i2o4f644/armeabi-v7a/CMakeFiles/rebuild_cache.dir

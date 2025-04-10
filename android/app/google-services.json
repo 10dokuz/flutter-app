@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "623322235915",
+    "project_id": "newq-4f566",
+    "storage_bucket": "newq-4f566.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623322235915:android:096ac5501e7b0d888a730e",
+        "android_client_info": {
+          "package_name": "com.app.bilio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3MtZFPtqTbeR96ItXLf2vounbulgBVLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

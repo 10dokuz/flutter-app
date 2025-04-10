@@ -1,0 +1,2 @@
+C:/Users/PC/Desktop/yenii/elite_quiz_app-2.3.1/android/app/.cxx/RelWithDebInfo/736x3k2c/x86/CMakeFiles/edit_cache.dir
+C:/Users/PC/Desktop/yenii/elite_quiz_app-2.3.1/android/app/.cxx/RelWithDebInfo/736x3k2c/x86/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+C:/Users/PC/Desktop/sonf/elite_quiz_1/android/app/.cxx/RelWithDebInfo/615z646d/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/PC/Desktop/sonf/elite_quiz_1/android/app/.cxx/RelWithDebInfo/615z646d/x86_64/CMakeFiles/rebuild_cache.dir
